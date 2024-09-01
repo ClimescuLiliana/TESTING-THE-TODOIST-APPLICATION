@@ -25,32 +25,32 @@ The plan identifies the items to be tested, the features to be tested, the types
 1.1.1. Roles asigned to the project and persons allocated
 (CLIMESCU LILIANA, NASTASE DOINA, PAUN ALIN)
 
-Project manager
-Product owner
-Software developer
+*Project manager
+*Product owner
+*Software developer
 QA Engineer
 1.1.2 Entry criteria defined
-All functional requirements are documented and approved.
-The test environment is configured and accessible.
-Testing resources (testers, tools) are available.
+*All functional requirements are documented and approved.
+*The test environment is configured and accessible.
+*Testing resources (testers, tools) are available.
 
 1.1.3 Exit criteria defined
-All test cases have been executed.
-All critical and major bugs have been fixed or documented.
-The final test report is complete and approved.
+*All test cases have been executed.
+*All critical and major bugs have been fixed or documented.
+*The final test report is complete and approved.
 
 1.1.4 Test scope
 
-Testing the creation of a task with a valid title.
-Testing the creation of a task with a missing title (negative test).
-Testing editing an existing task.
-Testing the change in the term of a task.
-Testing the deletion of a task.
-Testing the reactivation of an archived task.
-Testing setting a priority for a task.
-Testing adding a comment to a task.
-Testing the completion of a task.
-Testing reminder notifications for near-term tasks.
+1.Testing the creation of a task with a valid title.
+2.Testing the creation of a task with a missing title (negative test).
+3.Testing editing an existing task.
+4.Testing the change in the term of a task.
+5.Testing the deletion of a task.
+6.Testing the reactivation of an archived task.
+7.Testing setting a priority for a task.
+8.Testing adding a comment to a task.
+9.Testing the completion of a task.
+10.Testing reminder notifications for near-term tasks.
 
 Types of Testing:
 Functional Testing: Testing the aforementioned functionalities to verify the correctness of the implementation.
