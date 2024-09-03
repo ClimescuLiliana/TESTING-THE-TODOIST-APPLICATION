@@ -3,13 +3,13 @@
 Application under test: TODOIST
 Tools used: Jira, Zephyr Squad.
 
-<h2>Functional specifications:<h2>
+<h2>Functional specifications:</h2>>
   
 The below story:
-<ul>
+<ol>
 <li>1.Create a new task to organize my activities</li>
 <li>2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.</li>
-</ul>
+</ol>
 
 ![story 1 1](https://github.com/user-attachments/assets/f58f2fc4-4943-461f-b08c-a9ce99918ca6)
 ![story 2 2](https://github.com/user-attachments/assets/ecb0f76b-5900-4bd7-87ff-ea3706c302c7)
@@ -19,88 +19,106 @@ Here you can find the release that was created for this project:
 
 ![REALEASE VS1 1](https://github.com/user-attachments/assets/b5900f56-13d1-4bce-a1f7-cab3924bb075)
 
-<h2>Testing process<h2>
+<h2>Testing process</h2>
 The test process was performed based on the standard test process as described below.
 
-<h3> 1.1 Test planning<h3> 
+<h3> 1.1 Test planning</h3> 
 The Test Plan is designed to describe all details of testing for all the modules from the Todoist application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)
 
-<h4>1.1.1. Roles asigned to the project and persons allocated:<h4>
+<h4>1.1.1. Roles asigned to the project and persons allocated:</h4>
 
 <ul>
 <li>Project manager:NASTASE DOINA</li>
 <li>Product owner:ONOFREI ALEX</li>
-<li>*Software developer:PAUN ALIN</li>
+<li>Software developer:PAUN ALIN</li>
 <li>QA Engineer:CLIMESCU LILIANA</li>
 </ul>
   
-<h4>1.1.2 Entry criteria defined<h4>
+<h4>1.1.2 Entry criteria defined</h4>
+
+<ul>
+<li>All functional requirements are documented and approved.</li>
+<li>The test environment is configured and accessible.</li>
+<li>Testing resources (testers, tools) are available.</li>
+</ul>
+
+<h4>1.1.3 Exit criteria defined</h4>
   
-<p>*All functional requirements are documented and approved.<p>
-<p>*The test environment is configured and accessible.<p>
-<p>*Testing resources (testers, tools) are available.<p>
+<ul>
+<li>All test cases have been executed.</li>
+<li>All critical and major bugs have been fixed or documented.</li>
+<li>The final test report is complete and approved.</li>
+</ul>
 
-<h4>1.1.3 Exit criteria defined<h4>
+<h4>1.1.4 Test scope</h4>
+
+<h5> Tests in scope: </h5>
+<Ol>
+<li>1.Testing the creation of a task with a valid title.</li>
+<li>2.Testing the creation of a task with a missing title (negative test).</li>
+<li>3.Testing editing an existing task.</li>
+<li>4.Testing the change in the term of a task.</li>
+<li>5.Testing the deletion of a task.</li>
+<li>6.Testing the reactivation of an archived task.</li>
+<li>7.Testing setting a priority for a task.</li>
+<li>8.Testing adding a comment to a task.</li>
+<li>9.Testing the completion of a task.</li>
+<li>10.Testing reminder notifications for near-term tasks.</li>
+</ol>
+
+<h5>Types of Testing:</h5>
+<ul>
+<li>Functional Testing: Testing the aforementioned functionalities to verify the correctness of the implementation.</li>
+<li>Interface Testing (UI): Checking the appearance and functionality of the interface.</li>
+<li>Performance Testing: Checking the response time of the application under different loads.</li>
+<li>Compatibility Testing: Checking the operation of the application on different devices and browsers.</li>
+</ul>
   
-<p>*All test cases have been executed.<p>
-<p>*All critical and major bugs have been fixed or documented.<p>
-<p>*The final test report is complete and approved.<p>
-
-<h4>1.1.4 Test scope<h4>
-
-<p>1.Testing the creation of a task with a valid title.<p>
-<p>2.Testing the creation of a task with a missing title (negative test).<p>
-<p>3.Testing editing an existing task.<p>
-<p>4.Testing the change in the term of a task.<p>
-<p>5.Testing the deletion of a task.<p>
-<p>6.Testing the reactivation of an archived task.<p>
-<p>7.Testing setting a priority for a task.<p>
-<p>8.Testing adding a comment to a task.<p>
-<p>9.Testing the completion of a task.<p>
-<p>10.Testing reminder notifications for near-term tasks.<p>
-
-<h4>Types of Testing:<h4>
-<p>*Functional Testing: Testing the aforementioned functionalities to verify the correctness of the implementation.<p>
-<p>*Interface Testing (UI): Checking the appearance and functionality of the interface.<p>
-<p>*Performance Testing: Checking the response time of the application under different loads.<p>
-<p>*Compatibility Testing: Checking the operation of the application on different devices and browsers.<p>
+<h5>Test Environment:</h5>
+<ul>
+<li>Devices: Desktop, mobile (Android, iOS).</li>
+<li>Browsers: Chrome, Firefox, Safari.</li>
+<li>Operating Systems: Windows, macOS, iOS, Android.</li>
+</ul>
   
-<h4>Test Environment:<h4>
-<p>*Devices: Desktop, mobile (Android, iOS).<p>
-<p>*Browsers: Chrome, Firefox, Safari.<p>
-<p>*Operating Systems: Windows, macOS, iOS, Android.<p>
-  
-<h4>Testing Tools:<h4>
-<p>*JIRA: For requirements and bug management.<p>
-<p>*Zephyr: For managing and running test cases.<p>
-<p>*BrowserStack: For cross-browser and cross-platform testing.<p>
+<h5>Testing Tools:</h5>
+<ul>
+<li>JIRA: For requirements and bug management.</li>
+<li>Zephyr: For managing and running test cases.</li>
+<li>BrowserStack: For cross-browser and cross-platform testing.</li>
+</ul>
 
-<h4>Tests not in scope:<h4>
-<p>*Testing Premium Features<p>
-<p>*Testing the performance of the application when handling an extremely large number of tasks (ex: 10,000 concurrently active tasks).<p>
-<p>*Advanced security testing<p>
-<p>*Testing the application on very old versions of operating systems, such as iOS 10 or Android 5.<p>
-<p>*Testing translations for all languages ​​available in the app.<p>
-<p>*Checking date, time and numbering formats specific to each region.<p>
-<p>*Testing integrations with other applications such as Google Calendar<p>
+<h5>Tests not in scope: </h5>
+
+<p>*Testing Premium Features</li>
+<p>*Testing the performance of the application when handling an extremely large number of tasks (ex: 10,000 concurrently active tasks).</li>
+<p>*Advanced security testing</li>
+<p>*Testing the application on very old versions of operating systems, such as iOS 10 or Android 5.</li>
+<p>*Testing translations for all languages ​​available in the app.</li>
+<p>*Checking date, time and numbering formats specific to each region.</li>
+<p>*Testing integrations with other applications such as Google Calendar</li>
+</ul>
 
 <h4>1.1.5 Risks detected<h4>
 <h5>Project risks:<h5>
 <p>*Unrealistic delivery times.<p>
 <p>*Frequent changes in requirements.<p>
 <p>*Limited testing resources.<p>
+</ul>
 
 <h5>Product risks:<h5>
 <p>*Missing archive button.<p>
 <p>*Task priority visibility issues.<p>
 <p>*Notifications not working properly.<p>
-
+</ul>
+  
 <h4>1.1.6 Evaluating entry criteria<h4>
 <p>*All functional requirements are documented and approved.<p>
 <p>*The test environment is configured and accessible.<p>
 <p>*Testing resources (testers, tools) are available.<p>
+</ul>
 
 <h3>1.2 Test Monitoring and Control<h3>
 <p>The reason why the monitoring and control stage was done for:<p>
