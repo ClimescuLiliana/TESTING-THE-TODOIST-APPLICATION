@@ -177,7 +177,7 @@ The following elements are needed to be ready before the test execution phase be
 <li>Risk assessment</li>
 </li>
 
-<h3>1.6. Test Execution </h3>
+<h3>1.6 Test Execution </h3>
 Test cases are executed on the created test Cycle summary: Vs.1.1. - My project Todoist
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: (https://docs.google.com/document/d/151tWpwVUqX5iBPK3xMwHeBSrEWv_-q5oxp1fqu3S4os/edit)
@@ -187,7 +187,7 @@ The following is a summary of the bugs that have been found
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-<h3> 1.7 Test Completion</h3>
+<h3>1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: ![matricicea trasabilitatii - proiect Climescu Rodica liliana](https://github.com/user-attachments/assets/b41698e7-ac66-42b4-80ae-50c745955d0f)
 
