@@ -1,10 +1,12 @@
 <h1>Testing Project for **TODOSIT**</h1>
 
-Application under test: TODOIST
-Tools used: Jira, Zephyr Squad.
+<h4>Application under test: TODOIST<h4>
+<h6>Tools used: Jira, Zephyr Squad.<h6>
 
-Functional specifications:
-The below story: Create a new task to organize my activities AND As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.
+<p>Functional specifications:<p>
+<p>The below story:
+  1.Create a new task to organize my activities 
+  2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<p>
 
 ![story 1 1](https://github.com/user-attachments/assets/f58f2fc4-4943-461f-b08c-a9ce99918ca6)
 ![story 2 2](https://github.com/user-attachments/assets/ecb0f76b-5900-4bd7-87ff-ea3706c302c7)
