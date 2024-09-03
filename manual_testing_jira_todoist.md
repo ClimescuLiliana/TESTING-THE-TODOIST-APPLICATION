@@ -7,8 +7,8 @@ Tools used: Jira, Zephyr Squad.
   
 The below story:
 <ul>
-<li>1.Create a new task to organize my activities<li>
-<li>2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<li>
+<li>1.Create a new task to organize my activities</li>
+<li>2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.</li>
 </ul>
 
 ![story 1 1](https://github.com/user-attachments/assets/f58f2fc4-4943-461f-b08c-a9ce99918ca6)
@@ -30,10 +30,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated:<h4>
 
 <ul>
-<li>Project manager:NASTASE DOINA<li>
-<li>Product owner:ONOFREI ALEX<li>
-<li>*Software developer:PAUN ALIN<li>
-<li>QA Engineer:CLIMESCU LILIANA<li>
+<li>Project manager:NASTASE DOINA</li>
+<li>Product owner:ONOFREI ALEX</li>
+<li>*Software developer:PAUN ALIN</li>
+<li>QA Engineer:CLIMESCU LILIANA</li>
 </ul>
   
 <h4>1.1.2 Entry criteria defined<h4>
