@@ -1,7 +1,7 @@
 <h1>Testing Project for **TODOSIT**</h1>
 
 <h3>Application under test: TODOIST<h3>
-<h4>Tools used: Jira, Zephyr Squad.<h4>
+<p>Tools used: Jira, Zephyr Squad.<p>
 
 <h3>Functional specifications:<h3>
 <p>The below story:<p>
