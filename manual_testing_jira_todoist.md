@@ -1,4 +1,4 @@
-<h1>Testing Project for **TODOSIT**</h1>
+<h1>Testing Project for *TODOSIT*</h1>
 
 Application under test: TODOIST
 Tools used: Jira, Zephyr Squad.
