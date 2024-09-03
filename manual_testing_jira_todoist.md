@@ -25,7 +25,7 @@ The test process was performed based on the standard test process as described b
 <h3> 1.1 Test planning</h3> 
 The Test Plan is designed to describe all details of testing for all the modules from the Todoist application. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: <a href="https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit">link</a>
 
 <h4>1.1.1. Roles asigned to the project and persons allocated:</h4>
 
@@ -162,7 +162,7 @@ The following test conditions were found:
 </ul>
 
 <h3>1.4 Test Design</h3>
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: (https://docs.google.com/document/d/1xcOqpuw53SxTWgddkMyx7wggK_uOqahdYtrQ3AeTU1I/edit)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: <a href="https://docs.google.com/document/d/1xcOqpuw53SxTWgddkMyx7wggK_uOqahdYtrQ3AeTU1I/edit">link</a>
 
 <h3>1.5 Test Implementation</h3>
 The following elements are needed to be ready before the test execution phase begins:
@@ -180,16 +180,15 @@ The following elements are needed to be ready before the test execution phase be
 <h3>1.6 Test Execution </h3>
 Test cases are executed on the created test Cycle summary: Vs.1.1. - My project Todoist
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (https://docs.google.com/document/d/151tWpwVUqX5iBPK3xMwHeBSrEWv_-q5oxp1fqu3S4os/edit)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="https://docs.google.com/document/d/151tWpwVUqX5iBPK3xMwHeBSrEWv_-q5oxp1fqu3S4os/edit">link</a>
 
-The following is a summary of the bugs that have been found 
-(https://docs.google.com/document/d/1ztJMtTghRhhMiN1_vs-cMJonZl1CdSjLTTSbLY5XhJM/edit)
+The following is a summary of the bugs that have been found: <a href="https://docs.google.com/document/d/1ztJMtTghRhhMiN1_vs-cMJonZl1CdSjLTTSbLY5XhJM/edit">link</a>
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 <h3>1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-The traceability matrix was generated and can be found here: ![matricicea trasabilitatii - proiect Climescu Rodica liliana](https://github.com/user-attachments/assets/b41698e7-ac66-42b4-80ae-50c745955d0f)
+The traceability matrix was generated and can be found here: ![matricicea trasabilitatii - proiect Climescu Rodica liliana]: <a href="https://github.com/user-attachments/assets/b41698e7-ac66-42b4-80ae-50c745955d0f">link</a>
 
 
 Test execution chart was generated and can be found below.
