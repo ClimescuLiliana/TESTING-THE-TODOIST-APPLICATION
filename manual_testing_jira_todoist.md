@@ -159,7 +159,7 @@ The following test conditions were found:
 <li>Testing adding a comment to a task.</li> 
 <li>Testing the completion of a task.</li> 
 <li>Testing reminder notifications for near-term tasks.</li>
-</li>
+</ul>
 
 <h3>1.4 Test Design</h3>
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: (https://docs.google.com/document/d/1xcOqpuw53SxTWgddkMyx7wggK_uOqahdYtrQ3AeTU1I/edit)
@@ -175,7 +175,7 @@ The following elements are needed to be ready before the test execution phase be
 <li>Communication and Collaboration Efficiency</li>
 <li>Traceability matrix</li>
 <li>Risk assessment</li>
-</li>
+</ul>
 
 <h3>1.6 Test Execution </h3>
 Test cases are executed on the created test Cycle summary: Vs.1.1. - My project Todoist
