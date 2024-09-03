@@ -4,6 +4,7 @@
 <p>Tools used: Jira, Zephyr Squad.<p>
 
 <h3>Functional specifications:<h3>
+  
 <p>The below story:<p>
 <p> 1.Create a new task to organize my activities <p>
 <p> 2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<p>
@@ -31,86 +32,90 @@
 <p>*Product owner<p>
 <p>*Software developer<p>
 <p>QA Engineer<p>
+  
 <h4>1.1.2 Entry criteria defined<h4>
+  
 <p>*All functional requirements are documented and approved.<p>
 <p>*The test environment is configured and accessible.<p>
 <p>*Testing resources (testers, tools) are available.<p>
 
 <h4>1.1.3 Exit criteria defined<h4>
-*All test cases have been executed.
-*All critical and major bugs have been fixed or documented.
-*The final test report is complete and approved.
+  
+<p>*All test cases have been executed.<p>
+<p>*All critical and major bugs have been fixed or documented.<p>
+<p>*The final test report is complete and approved.<p>
 
 <h4>1.1.4 Test scope<h4>
 
-1.Testing the creation of a task with a valid title.
-2.Testing the creation of a task with a missing title (negative test).
-3.Testing editing an existing task.
-4.Testing the change in the term of a task.
-5.Testing the deletion of a task.
-6.Testing the reactivation of an archived task.
-7.Testing setting a priority for a task.
-8.Testing adding a comment to a task.
-9.Testing the completion of a task.
-10.Testing reminder notifications for near-term tasks.
+<p>1.Testing the creation of a task with a valid title.<p>
+<p>2.Testing the creation of a task with a missing title (negative test).<p>
+<p>3.Testing editing an existing task.<p>
+<p>4.Testing the change in the term of a task.<p>
+<p>5.Testing the deletion of a task.<p>
+<p>6.Testing the reactivation of an archived task.<p>
+<p>7.Testing setting a priority for a task.<p>
+<p>8.Testing adding a comment to a task.<p>
+<p>9.Testing the completion of a task.<p>
+<p>10.Testing reminder notifications for near-term tasks.<p>
 
-Types of Testing:
-Functional Testing: Testing the aforementioned functionalities to verify the correctness of the implementation.
-Interface Testing (UI): Checking the appearance and functionality of the interface.
-Performance Testing: Checking the response time of the application under different loads.
-Compatibility Testing: Checking the operation of the application on different devices and browsers.
-Test Environment:
-Devices: Desktop, mobile (Android, iOS).
-Browsers: Chrome, Firefox, Safari.
-Operating Systems: Windows, macOS, iOS, Android.
-Testing Tools:
-JIRA: For requirements and bug management.
-Zephyr: For managing and running test cases.
-BrowserStack: For cross-browser and cross-platform testing.
+<h4>Types of Testing:<h4>
+<p>*Functional Testing: Testing the aforementioned functionalities to verify the correctness of the implementation.<p>
+<p>*Interface Testing (UI): Checking the appearance and functionality of the interface.<p>
+<p>*Performance Testing: Checking the response time of the application under different loads.<p>
+<p>*Compatibility Testing: Checking the operation of the application on different devices and browsers.<p>
+  
+<h4>Test Environment:<h4>
+<p>*Devices: Desktop, mobile (Android, iOS).<p>
+<p>*Browsers: Chrome, Firefox, Safari.<p>
+<p>*Operating Systems: Windows, macOS, iOS, Android.<p>
+  
+<h4>Testing Tools:<h4>
+<p>*JIRA: For requirements and bug management.<p>
+<p>*Zephyr: For managing and running test cases.<p>
+<p>*BrowserStack: For cross-browser and cross-platform testing.<p>
 
-Tests not in scope:
-Testing Premium Features
-Testing the performance of the application when handling an extremely large number of tasks (ex: 10,000 concurrently active tasks).
-Advanced security testing
-Testing the application on very old versions of operating systems, such as iOS 10 or Android 5.
-Testing translations for all languages ​​available in the app.
-Checking date, time and numbering formats specific to each region.
-Testing integrations with other applications such as Google Calendar
+<h4>Tests not in scope:<h4>
+<p>*Testing Premium Features<p>
+<p>*Testing the performance of the application when handling an extremely large number of tasks (ex: 10,000 concurrently active tasks).<p>
+<p>*Advanced security testing<p>
+<p>*Testing the application on very old versions of operating systems, such as iOS 10 or Android 5.<p>
+<p>*Testing translations for all languages ​​available in the app.<p>
+<p>*Checking date, time and numbering formats specific to each region.<p>
+<p>*Testing integrations with other applications such as Google Calendar<p>
 
 <h4>1.1.5 Risks detected<h4>
-Project risks:
-Unrealistic delivery times.
-Frequent changes in requirements.
-Limited testing resources.
+<h5>Project risks:<h5>
+<p>*Unrealistic delivery times.<p>
+<p>*Frequent changes in requirements.<p>
+<p>*Limited testing resources.<p>
 
-Product risks:
-Missing archive button.
-Task priority visibility issues.
-Notifications not working properly.
+<h5>Product risks:<h5>
+<p>*Missing archive button.<p>
+<p>*Task priority visibility issues.<p>
+<p>*Notifications not working properly.<p>
 
 <h4>1.1.6 Evaluating entry criteria<h4>
-All functional requirements are documented and approved.
-The test environment is configured and accessible.
-Testing resources (testers, tools) are available.
+<p>*All functional requirements are documented and approved.<p>
+<p>*The test environment is configured and accessible.<p>
+<p>*Testing resources (testers, tools) are available.<p>
 
-1.2 Test Monitoring and Control
-The reason why the monitoring and control stage was done for:
-Identifies deviations from the original test plan, such as delays, unanticipated problems, or requirements changes.
-Maintains the quality of the testing process by continuously monitoring progress and adjusting testing activities as necessary.
-Ensure effective communication between team members and other stakeholders so that everyone is aware of the current status of the project.
-Manage previously identified risks through corrective or preventive actions to minimize their impact on final deliverables.
+<h3>1.2 Test Monitoring and Control<h3>
+<p>The reason why the monitoring and control stage was done for:<p>
+<p>*Identifies deviations from the original test plan, such as delays, unanticipated problems, or requirements changes.<p>
+<p>*Maintains the quality of the testing process by continuously monitoring progress and adjusting testing activities as necessary.<p>
+<p>*Ensure effective communication between team members and other stakeholders so that everyone is aware of the current status of the project.<p>
+<p>*Manage previously identified risks through corrective or preventive actions to minimize their impact on final deliverables.<p>
 
-How the monitoring and control stage was carried out:
-
-Tracking the progress of testing activities
-Bug management and reporting
-Test metric review
-Status and synchronization sessions
+<p>How the monitoring and control stage was carried out:<p>
+<p>*Tracking the progress of testing activities<p>
+<p>*Bug management and reporting<p>
+<p>*Test metric review<p>
+<p>*Status and synchronization sessions<p>
 
 ![matricicea trasabilitatii - proiect Climescu Rodica liliana](https://github.com/user-attachments/assets/05af4952-313f-4ea7-b39d-494ea2be588d)
 
 
-1.3 Test Analysis
+<h3>1.3 Test Analysis<h3>
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
