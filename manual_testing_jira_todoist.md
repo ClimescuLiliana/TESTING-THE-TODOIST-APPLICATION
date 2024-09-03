@@ -1,9 +1,9 @@
 <h1>Testing Project for **TODOSIT**</h1>
 
 <h3>Application under test: TODOIST<h3>
-<h5>Tools used: Jira, Zephyr Squad.<h5>
+<h4>Tools used: Jira, Zephyr Squad.<h4>
 
-<p>Functional specifications:<p>
+<h3>Functional specifications:<h3>
 <p>The below story:<p>
 <p> 1.Create a new task to organize my activities <p>
 <p> 2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<p>
@@ -12,36 +12,36 @@
 ![story 2 2](https://github.com/user-attachments/assets/ecb0f76b-5900-4bd7-87ff-ea3706c302c7)
 
 
-Here you can find the release that was created for this project:
+<p> Here you can find the release that was created for this project:<p> 
 
 ![REALEASE VS1 1](https://github.com/user-attachments/assets/b5900f56-13d1-4bce-a1f7-cab3924bb075)
 
-Testing process
-The test process was performed based on the standard test process as described below.
+<h3>Testing process<h3>
+<p> The test process was performed based on the standard test process as described below.<p> 
 
-1.1 Test planning
-The Test Plan is designed to describe all details of testing for all the modules from the Todoist application.
+<h4> 1.1 Test planning<h4> 
+<p> The Test Plan is designed to describe all details of testing for all the modules from the Todoist application.<p> 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)
+<p> The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)<p> 
 
-1.1.1. Roles asigned to the project and persons allocated
-(CLIMESCU LILIANA, NASTASE DOINA, PAUN ALIN)
+<h4>1.1.1. Roles asigned to the project and persons allocated:<h4>
+<p>(CLIMESCU LILIANA, NASTASE DOINA, PAUN ALIN)<p>
 
-*Project manager
-*Product owner
-*Software developer
-QA Engineer
-1.1.2 Entry criteria defined
-*All functional requirements are documented and approved.
-*The test environment is configured and accessible.
-*Testing resources (testers, tools) are available.
+<p>*Project manager<p>
+<p>*Product owner<p>
+<p>*Software developer<p>
+<p>QA Engineer<p>
+<h4>1.1.2 Entry criteria defined<h4>
+<p>*All functional requirements are documented and approved.<p>
+<p>*The test environment is configured and accessible.<p>
+<p>*Testing resources (testers, tools) are available.<p>
 
-1.1.3 Exit criteria defined
+<h4>1.1.3 Exit criteria defined<h4>
 *All test cases have been executed.
 *All critical and major bugs have been fixed or documented.
 *The final test report is complete and approved.
 
-1.1.4 Test scope
+<h4>1.1.4 Test scope<h4>
 
 1.Testing the creation of a task with a valid title.
 2.Testing the creation of a task with a missing title (negative test).
@@ -77,7 +77,7 @@ Testing translations for all languages ​​available in the app.
 Checking date, time and numbering formats specific to each region.
 Testing integrations with other applications such as Google Calendar
 
-1.1.5 Risks detected
+<h4>1.1.5 Risks detected<h4>
 Project risks:
 Unrealistic delivery times.
 Frequent changes in requirements.
@@ -88,7 +88,7 @@ Missing archive button.
 Task priority visibility issues.
 Notifications not working properly.
 
-1.1.6 Evaluating entry criteria
+<h4>1.1.6 Evaluating entry criteria<h4>
 All functional requirements are documented and approved.
 The test environment is configured and accessible.
 Testing resources (testers, tools) are available.
