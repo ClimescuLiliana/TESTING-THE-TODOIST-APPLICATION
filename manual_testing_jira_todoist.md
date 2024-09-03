@@ -1,37 +1,40 @@
 <h1>Testing Project for **TODOSIT**</h1>
 
-<h3>Application under test: TODOIST<h3>
-<p>Tools used: Jira, Zephyr Squad.<p>
+Application under test: TODOIST
+Tools used: Jira, Zephyr Squad.
 
-<h3>Functional specifications:<h3>
+<h2>Functional specifications:<h2>
   
-<p>The below story:<p>
-<p> 1.Create a new task to organize my activities <p>
-<p> 2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<p>
+The below story:
+<ul>
+<li>1.Create a new task to organize my activities<li>
+<li>2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.<li>
+</ul>
 
 ![story 1 1](https://github.com/user-attachments/assets/f58f2fc4-4943-461f-b08c-a9ce99918ca6)
 ![story 2 2](https://github.com/user-attachments/assets/ecb0f76b-5900-4bd7-87ff-ea3706c302c7)
 
 
-<p> Here you can find the release that was created for this project:<p> 
+Here you can find the release that was created for this project:
 
 ![REALEASE VS1 1](https://github.com/user-attachments/assets/b5900f56-13d1-4bce-a1f7-cab3924bb075)
 
-<h3>Testing process<h3>
-<p> The test process was performed based on the standard test process as described below.<p> 
+<h2>Testing process<h2>
+The test process was performed based on the standard test process as described below.
 
-<h4> 1.1 Test planning<h4> 
-<p> The Test Plan is designed to describe all details of testing for all the modules from the Todoist application.<p> 
+<h3> 1.1 Test planning<h3> 
+The Test Plan is designed to describe all details of testing for all the modules from the Todoist application. 
 
-<p> The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)<p> 
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://docs.google.com/document/d/17Ox1PG5PV_fWRuPUjeSOXzqVOWOpf37qDepUGUjP_tE/edit)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated:<h4>
-<p>(CLIMESCU LILIANA, NASTASE DOINA, PAUN ALIN)<p>
 
-<p>*Project manager<p>
-<p>*Product owner<p>
-<p>*Software developer<p>
-<p>QA Engineer<p>
+<ul>
+<li>Project manager:NASTASE DOINA<li>
+<li>Product owner:ONOFREI ALEX<li>
+<li>*Software developer:PAUN ALIN<li>
+<li>QA Engineer:CLIMESCU LILIANA<li>
+</ul>
   
 <h4>1.1.2 Entry criteria defined<h4>
   
