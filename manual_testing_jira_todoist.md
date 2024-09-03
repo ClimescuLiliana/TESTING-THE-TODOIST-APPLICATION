@@ -3,12 +3,12 @@
 Application under test: TODOIST
 Tools used: Jira, Zephyr Squad.
 
-<h2>Functional specifications:</h2>>
+<h2>Functional specifications:</h2>
   
 The below story:
 <ol>
-<li>1.Create a new task to organize my activities</li>
-<li>2. As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.</li>
+<li>Create a new task to organize my activities</li>
+<li>As a user, I want to be able to edit an existing task so that I can update its information was created in Jira and describes the functional specifications of the "TODOIST" module, for which the final project is performed upon.</li>
 </ol>
 
 ![story 1 1](https://github.com/user-attachments/assets/f58f2fc4-4943-461f-b08c-a9ce99918ca6)
