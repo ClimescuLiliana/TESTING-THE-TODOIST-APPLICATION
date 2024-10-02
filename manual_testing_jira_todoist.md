@@ -106,16 +106,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Project risks:</h5>
 <ul>
-<li>Unrealistic delivery times.</li>
-<li>Frequent changes in requirements.</li>
-<li>Limited testing resources.</li>
+<li>Strict deadlines for the release of new features.</li>
+<li>Dependence on the reduced development and testing team.</li>
+<li>Legal Compliance Issues (GDPR).</li>
 </ul>
 
 <h5>Product risks:</h5>
 <ul>
-<li>Missing archive button.</li>
-<li>Task priority visibility issues.</li>
-<li>Notifications not working properly.</li>
+<li>Performance issues on complex tasks.</li>
+<li>Incompatibility with old devices or systems.</li>
+<li>Backend infrastructure scalability.</li>
+<li>Security issues.</li>
+<li>Incompatibility with third-party platforms (eg Google Calendar).</li>
+<li>Notification overload.</li>
+<li>Data loss on disconnection.</li>
 </ul>
   
 <h4>1.1.6 Evaluating entry criteria</h4>
