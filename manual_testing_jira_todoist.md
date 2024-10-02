@@ -124,8 +124,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.6 Evaluating entry criteria</h4>
 <ul>
 <li>All functional requirements are documented and approved.</li>
-<li>The test environment is configured and accessible.</li>
-<li>Testing resources (testers, tools) are available.</li>
+<li>Testing resources (testers) are available.</li>
 </ul>
 
 <h3>1.2 Test Monitoring and Control</h3>
