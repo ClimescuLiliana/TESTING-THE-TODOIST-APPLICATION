@@ -40,8 +40,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <ul>
 <li>All functional requirements are documented and approved.</li>
-<li>The test environment is configured and accessible.</li>
-<li>Testing resources (testers, tools) are available.</li>
+<li>Testing resources (testers) are available.</li>
 </ul>
 
 <h4>1.1.3 Exit criteria defined</h4>
